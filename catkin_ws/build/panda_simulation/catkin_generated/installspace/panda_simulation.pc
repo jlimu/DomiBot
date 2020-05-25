@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: panda_simulation
+Description: Description of panda_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/catkin_ws/install/lib 
+Requires: moveit_core moveit_visual_tools moveit_ros_planning_interface controller_interface hardware_interface pluginlib
