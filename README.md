@@ -1,4 +1,4 @@
-<img src="https://www.google.com/search?q=robot+drawing&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMmqDRn9LpAhUL1xoKHU5pC0UQ_AUoAXoECA0QAw&biw=1366&bih=657#imgrc=gniXH2rbyPC2TM" align="right" width="300" alt="header pic"/>
+<img src="https://i.pinimg.com/originals/9d/4f/c7/9d4fc74f015e5db77b2a05e6ce915d9b.jpg" align="right" width="300" alt="header pic"/>
 
 # DomiBot
 
