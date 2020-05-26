@@ -90,7 +90,7 @@ If you use this project's code in industry, we'd love to hear from you as well; 
 
 - [Sergi Pérez](https://github.com/Sergipemu/)
 
-- [Eloy Bardaji](https://github.com/eloybp/)
+- [Eloy Bardají](https://github.com/eloybp/)
 
 - [Albert Company](https://github.com/albertcom23/)
 
