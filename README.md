@@ -2,7 +2,7 @@
 
 # DomiBot
 
-Python codes for robotics algorithm.
+Robot project for the RLP subject in UAB Computer Engineering
 
 
 # Table of Contents
