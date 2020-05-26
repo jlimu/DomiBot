@@ -1,0 +1,7 @@
+Instruccions:
+
+Obrir terminal en aquest mateix directori i posar la comanda "python3 domiBot_telnet.py"
+
+Obrir un altre terminal i posar la comanda "telnet localhost 10000"
+
+Nota: El server funciona nomès en xarxes locals
