@@ -48,7 +48,7 @@ Knowing the play we will make, the mapping converts the parameters that have bee
 
 Servo position control
 
-This module receives the play selected by the robot in the module "decision played" and the position of the physical board to perform the play, obtained from the module "mapping". The aim of this module is to perform a reverse kinematics so that, from the position of the physical board of the play selected by the robot, obtain the necessary angles to rotate the servos and that the arm reaches the desired position of the board . You will also need to rotate the piece according to how you place it on the board.
+This module receives the play selected by the robot in the module "decision played" and the position of the physical board to perform the play, obtained from the module "mapping". The aim of this module is to perform a reverse kinematics so that, from the position of the physical board of the play selected by the robot, obtain the necessary angles to rotate the servos and that the arm reaches the desired position of the board. You will also need to rotate the piece according to how you place it on the board.
 
 # IMPORTANT
 
