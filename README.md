@@ -10,7 +10,6 @@ Robot project for the RLP subject in UAB Computer Engineering
    * [Requirements](#requirements)
    * [How to use](#how-to-use)
    * [License](#license)
-   * [Use-case](#use-case)
    * [Citing](#citing)
    * [Authors](#authors)
 
@@ -45,14 +44,6 @@ https://rds.theconstructsim.com/
 # License 
 
 UAB
-
-# Use-case
-
-If this project helps your robotics project, please let me know with creating an issue.
-
-Your robot's video, which is using PythonRobotics, is very welcome!!
-
-This is a list of other user's comment and references:[users\_comments](https://github.com/AtsushiSakai/PythonRobotics/blob/master/users_comments.md)
 
 # Citing
 
