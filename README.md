@@ -68,13 +68,7 @@ https://rds.theconstructsim.com/
 
 # Instructions
 
-1. Go to https://rds.theconstructsim.com/ and login to an account. If you don't have an account then create one.
-
-2. Open the project.
-
-3. Launch the simulation with the x file.
-
-4. Open a shell and type the commands x for the simulation.
+por hacer
 
 # License 
 
