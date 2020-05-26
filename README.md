@@ -56,7 +56,7 @@ This is a list of other user's comment and references:[users\_comments](https://
 
 # Citing
 
-If you use this project's code for your academic work, we encourage you to cite [our papers](https://arxiv.org/abs/1808.10703) 
+If you use this project's code for your academic work, we encourage you to cite [our project](https://github.com/jlimu/DomiBot) 
 
 If you use this project's code in industry, we'd love to hear from you as well; feel free to reach out to the developers directly.
 
