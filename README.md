@@ -21,11 +21,11 @@ This is a robot project for the RLP Project in UAB Computer Engineering.
 
 It consists of a robotic arm that plays domino against a human.
 
-# Software Architecture
+# Software architecture
 
 We identified 4 software modules for our robot. Our software architecture is based on a photograph taken by a camera that tells us the status of the domino board and the tiles that the robot has to play with.
 
-# Computer vision
+Computer vision
 
 Based on the photograph of the domino board made by the camera, this module is responsible for analyzing the board using computer vision.
 The aim of this analysis is to identify all the tiles that make up the board and those that the robot has to play, and find those positions where the robot can make possible plays along with the numbers it needs to make those plays. These positions will be next to the tiles at the ends of the board and those tiles that have the same number on both sides, so the latter will have two possible positions for the same play.
@@ -46,7 +46,7 @@ Mapping
 This module consists of converting the positions of the photograph of the board of the possible plays, that we obtain in the module of vision by computer, in the real positions of the physical board that we will need later to indicate the point where the robotic arm must move .
 Knowing the play we will make, the mapping converts the parameters that have been passed to us, which we need to move the arm and the positions of the appropriate servos to put the tile in the indicated place.
 
-Servo position control:
+Servo position control
 
 This module receives the play selected by the robot in the module "decision played" and the position of the physical board to perform the play, obtained from the module "mapping". The aim of this module is to perform a reverse kinematics so that, from the position of the physical board of the play selected by the robot, obtain the necessary angles to rotate the servos and that the arm reaches the desired position of the board . You will also need to rotate the piece according to how you place it on the board.
 
