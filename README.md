@@ -1,6 +1,6 @@
-<img src="https://github.com/AtsushiSakai/PythonRobotics/raw/master/icon.png?raw=true" align="right" width="300" alt="header pic"/>
+<img src="https://www.google.com/search?q=robot+drawing&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMmqDRn9LpAhUL1xoKHU5pC0UQ_AUoAXoECA0QAw&biw=1366&bih=657#imgrc=gniXH2rbyPC2TM" align="right" width="300" alt="header pic"/>
 
-# PythonRobotics
+# DomiBot
 ![GitHub_Action_Linux_CI](https://github.com/AtsushiSakai/PythonRobotics/workflows/Linux_CI/badge.svg)
 ![GitHub_Action_MacOS_CI](https://github.com/AtsushiSakai/PythonRobotics/workflows/MacOS_CI/badge.svg)
 [![Build Status](https://travis-ci.org/AtsushiSakai/PythonRobotics.svg?branch=master)](https://travis-ci.org/AtsushiSakai/PythonRobotics)
