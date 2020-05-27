@@ -9,8 +9,8 @@ import socket
 import sys
 import random
 import numpy as np
-from tablero import TableroV2
-from tablerov1 import TableroV1
+from tablero_telnet import TableroV2
+from tablerov1_telnet import TableroV1
 
 
 
