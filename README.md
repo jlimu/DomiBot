@@ -48,7 +48,7 @@ Knowing the play we will make, the mapping converts the parameters that have bee
 
 Servo position control
 
-This module receives the play selected by the robot in the module "decision played" and the position of the physical board to perform the play, obtained from the module "mapping". The aim of this module is to perform a reverse kinematics so that, from the position of the physical board of the play selected by the robot, obtain the necessary angles to rotate the servos and that the arm reaches the desired position of the board . You will also need to rotate the piece according to how you place it on the board.
+This module receives the play selected by the robot in the module "decision played" and the position of the physical board to perform the play, obtained from the module "mapping". The aim of this module is to perform a reverse kinematics so that, from the position of the physical board of the play selected by the robot, obtain the necessary angles to rotate the servos and that the arm reaches the desired position of the board. You will also need to rotate the piece according to how you place it on the board.
 
 # IMPORTANT
 
@@ -68,13 +68,7 @@ https://rds.theconstructsim.com/
 
 # Instructions
 
-1. Go to https://rds.theconstructsim.com/ and login to an account. If you don't have an account then create one.
-
-2. Open the project.
-
-3. Launch the simulation with the x file.
-
-4. Open a shell and type the commands x for the simulation.
+por hacer
 
 # License 
 
@@ -90,7 +84,7 @@ If you use this project's code in industry, we'd love to hear from you as well; 
 
 - [Sergi Pérez](https://github.com/Sergipemu/)
 
-- [Eloy Bardaji](https://github.com/eloybp/)
+- [Eloy Bardají](https://github.com/eloybp/)
 
 - [Albert Company](https://github.com/albertcom23/)
 
