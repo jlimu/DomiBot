@@ -56,6 +56,8 @@ In this project, we had the goal of making it physical but due to COVID-19, we o
 
 # Requirements
 
+Simulation
+
 - Ubuntu 16.04
 
 - ROS Kinetic
@@ -66,9 +68,43 @@ All of this were used in a website to code in ROS online without even installing
 
 https://rds.theconstructsim.com/
 
+Game algorithm
+
+- Python 3
+
+Visual computing
+
+- Matlab Latest Version
+
+Interface with telnet
+
+- Ubuntu
+
+- Python 3
+
 # Instructions
 
-por hacer
+Simulation
+
+1. Go to http://www.rosject.io/l/1391d483/ and open the project.
+
+2. Launch the simulation file.
+
+3. Use the command rosrun image_view image_view image:=/mybot/camera1/image_raw to activate the camera.
+
+Game algorithm
+
+1. Use anaconda on windows or linux commands on linux to execute the domiBot.py file and play.
+
+Visual computing
+
+1. Open matlab and execute the detectar_pieza.m, there are two versions, "inicial" is the first version of the code and the other one is the latest version of the code.
+
+Interface with telnet
+
+1. Open a shell on linux on the directory of DomiBot_telnet and put the command "python3 domiBot_telnet.py".
+
+2. Open another shell and put the command "telnet localhost 10000". This will connect with the server and you will be able to play the game.
 
 # License 
 
